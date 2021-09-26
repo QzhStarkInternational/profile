@@ -13,7 +13,7 @@ Proven leadership and public speaking abilities through student organizations an
 
 **Mathematics w/ specialized in Computer Science**
 
-### Intern experience:
+## Intern experience:
 
 ```
 project:
@@ -21,23 +21,23 @@ DNA sequence alignment and pattern matching
 Abnormal detection based on Markov Chain
 
 ```
-### My recent code signature:
+## My recent code signature:
 ```
 bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 ```
 
-**Skills**
+## Skills
 - Java
 - C++
 - Objective-C
 - C
 - Python
 - JavaScript
-
-**Hobbies**
+- 
+## Hobbies
 1. Photography
 
-**Interesting projects other than internship or lab:**
+## Interesting projects other than internship or lab:
 - [x] Enigma Encode and decode
 - [x] DNA sequence acceleration using BLAST 
 
@@ -48,4 +48,4 @@ My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 [README for this assignment](README.md)
 
 
-[Go to top](#Summary)
+[Go to top](#Hobbies)
