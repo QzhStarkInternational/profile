@@ -20,9 +20,9 @@ DNA sequence alignment and pattern matching
 Abnormal detection based on Markov Chain
 
 ```
-### Code to represent myself:
+### My recent code signature:
 ```
-<script>alert('hello，gaga!');</script>
+bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 ```
 
 **Skills**
