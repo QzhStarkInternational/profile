@@ -37,11 +37,8 @@ Abnormal detection based on Markov Chain
 1. Badminton
 2. Photography
 
-**Progress in this assignment:**
-- [x] part 1
-- [x] part 2
-- [x] part 3
-
+**Projects other than internship or lab:**
+- [x] Degree Audit w/ Canvas
 
 My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 
