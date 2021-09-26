@@ -37,8 +37,9 @@ Abnormal detection based on Markov Chain
 1. Badminton
 2. Photography
 
-**Projects other than internship or lab:**
+**Interesting projects other than internship or lab:**
 - [x] Degree Audit w/ Canvas
+- [x] DNA sequence acceleration using BLAST 
 
 My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 
