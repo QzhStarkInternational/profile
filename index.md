@@ -1,5 +1,6 @@
-# Introduction：
-## Zihan Qu
+# Zihan Qu
+
+## About Me:
 
 ![This is a image](IMG_1241.JPG)
 ## Summary:
