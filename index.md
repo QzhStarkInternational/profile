@@ -15,16 +15,12 @@ Proven leadership and public speaking abilities through student organizations an
 
 > Mathematics - Computer Science
 
-### How I being a programmer and a person:
+### Intern experience:
 
 ```
-Programmer:
-I am full of creativity to design the program.
-I like to start the program early and often and on time.
-I show the ability to cooperation with other people and self decplined. 
-
-Person:
-I like to try new things, like the new hobbies and new food. 
+project:
+DNA sequence alignment and pattern matching
+Abnormal detection based on Markov Chain
 
 ```
 ### Code to represent myself:
