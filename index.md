@@ -35,7 +35,7 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 - C
 - Python
 - JavaScript
-- 
+
 ## Hobbies:
 1. Photography
 
