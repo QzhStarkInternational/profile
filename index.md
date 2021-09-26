@@ -12,6 +12,7 @@ Proven leadership and public speaking abilities through student organizations an
 
 ## Education:
 > University of California, San Diego
+> Mathematics - Computer Science
 
 ### How I being a programmer and a person:
 
@@ -30,24 +31,23 @@ I like to try new things, like the new hobbies and new food.
 <script>alert('hello，gaga!');</script>
 ```
 
-This assignment was built using [Github Pages](https://github.com/QzhStarkInternational/Lab1-Assignment).
+**Skills**
+- Java
+- C++
+- Objective-C
+- C
+- Python
+- JavaScript
 
-[click on this link](#Introduction)
-
-[README for this project](README.md)
-
-**Three courses I like to take in UCSD unordered**
-- CSE 110
-- CSE 190
-- CSE 158
-
-**Three math courses I like to take in ucsd ordered**
-1. MATH 173
-2. MATH 187
-3. MATH 190
+**Hobbies**
+1. Badminton
+2. Photography
 
 **Progress in this assignment:**
 - [x] part 1
 - [x] part 2
 - [x] part 3
-
+- [ ] 
+My Github Page [Github Pages](https://github.com/QzhStarkInternational).
+[README for this assignment](README.md)
+[Go to top part](#Introduction)
