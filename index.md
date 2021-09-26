@@ -50,5 +50,5 @@ My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 [README for this assignment](README.md)
 
 
-[See my profile picture](IMG_1241.JPG)
+[See my photography work](Picture/)
 
