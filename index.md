@@ -35,8 +35,7 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 - JavaScript
 
 **Hobbies**
-1. Badminton
-2. Photography
+1. Photography
 
 **Interesting projects other than internship or lab:**
 - [x] Enigma Encode and decode
