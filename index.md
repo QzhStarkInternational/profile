@@ -1,5 +1,5 @@
 # Introduction：
-**Zihan Qu**
+## Zihan Qu
 
 ![This is a image](https://github.com/QzhStarkInternational/Lab1-Assignment/blob/main/IMG_1241.JPG)
 ## Summary:
