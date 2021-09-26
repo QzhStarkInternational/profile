@@ -12,6 +12,7 @@ Proven leadership and public speaking abilities through student organizations an
 
 ## Education:
 > University of California, San Diego
+
 > Mathematics - Computer Science
 
 ### How I being a programmer and a person:
