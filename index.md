@@ -1,7 +1,7 @@
 # Introduction：
 ## Zihan Qu
 
-![This is a image](https://github.com/QzhStarkInternational/Lab1-Assignment/blob/main/IMG_1241.JPG)
+![This is a image](IMG_1241.JPG)
 ## Summary:
 **Experience programming, analyzing, and computing project through Computer Science and Engineer, Statistics, and Mathematics classes. 
 Achieve a strong background in computation and analysis developed through coursework. Work effectively within a group as well as independently with minimal supervision. 
