@@ -8,9 +8,9 @@ Achieve a strong background in computation and analysis developed through course
 Proven leadership and public speaking abilities through student organizations and work experience.**
 
 ## Education:
-> University of California, San Diego
+**University of California, San Diego**
 
-> Mathematics - Computer Science
+**Mathematics w/ specialized in Computer Science**
 
 ### Intern experience:
 
@@ -38,8 +38,10 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 2. Photography
 
 **Interesting projects other than internship or lab:**
-- [x] Degree Audit w/ Canvas
+- [x] Enigma Encode and decode
 - [x] DNA sequence acceleration using BLAST 
+
+> Start early and often
 
 My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 
