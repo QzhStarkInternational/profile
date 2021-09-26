@@ -1,6 +1,7 @@
 # Zihan Qu
 
 # Introduction:
+
 ## About Me:
 
 ![This is a image](IMG_1241.JPG)
@@ -49,9 +50,5 @@ My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 [README for this assignment](README.md)
 
 
-[Go to top](#Introduction:)
-
-[Intern exoerience](#Intern experience:)
-
-[Skills](#Skills:)
+[See my profile picture](IMG_1241.JPG)
 
