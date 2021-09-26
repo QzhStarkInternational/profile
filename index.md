@@ -1,5 +1,6 @@
 # Zihan Qu
 
+# Introduction:
 ## About Me:
 
 ![This is a image](IMG_1241.JPG)
@@ -26,7 +27,7 @@ Abnormal detection based on Markov Chain
 bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 ```
 
-## Skills
+## Skills:
 - Java
 - C++
 - Objective-C
@@ -34,7 +35,7 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 - Python
 - JavaScript
 - 
-## Hobbies
+## Hobbies:
 1. Photography
 
 ## Interesting projects other than internship or lab:
@@ -48,4 +49,7 @@ My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 [README for this assignment](README.md)
 
 
-[Go to top](#Hobbies)
+[Go to top](#Introduction:)
+[Intern exoerience](#Intern experience:)
+[Skills](#Skills:)
+
