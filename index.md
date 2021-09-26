@@ -43,7 +43,7 @@ Abnormal detection based on Markov Chain
 
 My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 
-[README for this assignment](https://www.linkedin.com/in/zihan-qu-945635189)
+[README for this assignment](README.md)
 
 
 [Go to top](#Introduction)
