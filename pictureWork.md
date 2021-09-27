@@ -4,5 +4,4 @@
 
 ![pic3](/Picture/5_Zihan Qu_Reflection & Hign tone & Contrary.jpg)
 
-Back to main page:
-![back](index.md)
+[Back to main page:](index.md)
