@@ -38,6 +38,7 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 
 ## Hobbies:
 1. Photography
+[See my photography work](pictureWork.md)
 
 ## Interesting projects other than internship or lab:
 - [x] Enigma Encode and decode
@@ -50,5 +51,5 @@ My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 [README for this assignment](README.md)
 
 
-[See my photography work](Picture/)
+
 
