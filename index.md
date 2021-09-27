@@ -49,7 +49,7 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 
 My Github Page [Github Pages](https://github.com/QzhStarkInternational).
 
-[README for this assignment](README.md)
+
 
 
 
