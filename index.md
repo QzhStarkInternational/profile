@@ -38,6 +38,7 @@ bool queryPrtComp::operator()(Query*& lhs, Query*& rhs) const;
 
 ## Hobbies:
 1. Photography
+
 [See my photography work](pictureWork.md)
 
 ## Interesting projects other than internship or lab:
